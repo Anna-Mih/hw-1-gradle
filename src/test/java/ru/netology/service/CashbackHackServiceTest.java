@@ -28,7 +28,6 @@ class CashbackHackServiceTest {
 
     }
 
-    @Disabled
     @org.testng.annotations.Test
     void shouldRemainIfAmount1000() {
         CashbackHackService service = new CashbackHackService();
