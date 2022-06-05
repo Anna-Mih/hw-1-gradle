@@ -28,6 +28,7 @@ public class CashbackHackServiceTest {
 
     }
 
+    @Ignore
     @org.junit.Test
     public void shouldRemainIfAmount1000() {
         CashbackHackService service = new CashbackHackService();
