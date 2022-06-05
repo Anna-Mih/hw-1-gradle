@@ -1,7 +1,5 @@
 package ru.netology.service;
 
-import org.junit.jupiter.api.Disabled;
-
 import static org.testng.Assert.*;
 
 class CashbackHackServiceTest {
